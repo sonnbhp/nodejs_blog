@@ -1,0 +1,31 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sonnb2",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.7"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonnbhp/nodejs_blog.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "bugs": {
+    "url": "https://github.com/sonnbhp/nodejs_blog/issues"
+  },
+  "homepage": "https://github.com/sonnbhp/nodejs_blog#readme",
+  "description": ""
+}
